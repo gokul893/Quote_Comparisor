@@ -1,1 +1,1 @@
-Motor Quote_Comparisor
+Motor Quote_Comparisor for motor insurance
